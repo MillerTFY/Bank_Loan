@@ -1,3 +1,5 @@
+
+
 # Bank_Loan
 Predictive analytics for Bank Loan.
 
@@ -17,3 +19,4 @@ The features within the dataset play a crucial role in predicting the target var
 When looking at overall accuracy of both models, Logistic Regression and Random Forest, stands at 80%. Even after thorough hyperparameter tuning, the models have been unable to achieve an accuracy of 90% or higher. This limitation is primarily attributed to the inherent complexity of the data, which is compounded by noise that adversely impacts accuracy. Furthermore, the process of feature selection may have introduced inaccuracies by retaining irrelevant variables or excluding crucial ones, ultimately resulting in suboptimal predictive performance.
 
 As a recommended course of action to enhance the model's effectiveness, propose improvements in data quality is the pathforward. This can be achieved by augmenting the dataset with additional relevant features. Specifically, incorporating measures such as Credit History, a more detailed breakdown of Income levels categorized into five levels, capturing information related to employment stability (e.g., tenure at their current company), evaluating Debt-to-Income ratios, and considering the age of the borrower will significantly contribute to refining the model's predictive capabilities. These enhancements will provide a more comprehensive and accurate representation of borrower profiles, ultimately leading to improved predictive accuracy in loan assessment.
+
